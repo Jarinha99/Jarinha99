@@ -4,7 +4,7 @@
 
 - 📌 I'm From Brazil!
 - 🎂 I'm 21.
-- 🏢 I’m currently working at Funcional Health Tech as Full Analyst.
+- 🏢 I’m currently working at Funcional Health Tech as Senior Developer.
   - 2 years working with C#
   - Since December/2019 using NodeJS and NestJS.
 - 📖 I’m currently improving my NestJS skills!
