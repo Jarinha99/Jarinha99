@@ -3,12 +3,12 @@
 ## Fast Topics about me:
 
 - 📌 I'm From Brazil!
-- 🎂 I'm 21.
-- 🏢 I’m currently working at Funcional Health Tech as Senior Developer.
+- 🎂 I'm 22.
+- 🏢 I’m currently working at [Dasa](www.dasa.com.br) as Tech Lead.
   - 2 years working with C#
-  - Since December/2019 using NodeJS and NestJS.
-- 📖 I’m currently improving my NestJS skills!
-- 🎓 I'll finish my graduation in Systems Information in december.
+  - 3 years using NodeJS and NestJS.
+- 📖 Improving Devops skills!
+- 🎓 Graduated in Systems Information.
 - 🌎 I'm fluent in Portuguse | Advanced in English (Still Studying)
 
 ## Hackatons / Challenges
