@@ -3,10 +3,10 @@
 ## Fast Topics about me:
 
 - 📌 I'm From Brazil!
-- 🎂 I'm 22.
+- 🎂 I'm 23.
 - 🏢 I’m currently working at [Dasa](www.dasa.com.br) as Tech Lead.
   - 2 years working with C#
-  - 3 years using NodeJS and NestJS.
+  - 4 years using NodeJS and NestJS.
 - 📖 Improving Devops skills!
 - 🎓 Graduated in Systems Information.
 - 🌎 I'm fluent in Portuguse | Advanced in English (Still Studying)
