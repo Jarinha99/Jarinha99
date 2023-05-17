@@ -3,13 +3,38 @@
 ## Fast Topics about me:
 
 - 📌 I'm From Brazil!
-- 🎂 I'm 23.
+- 🎂 I'm 24.
 - 🏢 I’m currently working at [Dasa](www.dasa.com.br) as Tech Lead.
   - 2 years working with C#
-  - 4 years using NodeJS and NestJS.
+  - 5 years using NodeJS and NestJS.
 - 📖 Improving Devops skills!
 - 🎓 Graduated in Systems Information.
 - 🌎 I'm fluent in Portuguse | Advanced in English (Still Studying)
+
+## Tecnologies
+- NodeJS
+- NestJS
+- GraphQL
+  - 5 Years
+  - 2 Years with managed federation, using Apollo Studio/GraphOS.
+- Docker
+- Kubernetes
+- Jenkins
+  - 2 Years creating and managing pipelines
+- Fortify
+- SonarQube
+- EDA
+  - Using Kafka.
+- Azure / GCP
+  - Bucket
+  - Cloud Functions
+  - Firebase
+  - API Rest Gateway
+  - Databases
+    - Postgres
+    - CosomosDB
+    - Redis
+
 
 ## Hackatons / Challenges
 
