@@ -21,18 +21,20 @@
 - Kubernetes
 - Jenkins
   - 2 Years creating and managing pipelines
-- Fortify
+- Fortify / Debricked
 - SonarQube
 - EDA
-  - Using Kafka.
+  - Kafka
+  - Event-Hubs
+  - Pub-Sub
 - Azure / GCP
   - Bucket
-  - Cloud Functions
+  - Cloud Functions / Azure Functions
   - Firebase
-  - API Rest Gateway
+  - APIM
   - Databases
     - Postgres
-    - CosomosDB
+    - MongoDB
     - Redis
 
 
